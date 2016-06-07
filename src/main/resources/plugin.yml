@@ -1,0 +1,8 @@
+main: me.spaces.lavania.MysteryChests
+author: Spaces
+version: 1.0-SNAPSHOT
+name: Lavania-MysteryChests
+commands:
+    mysterychest:
+       description: 'Mystery Chests commands.'
+       permissions: mysterychests.admin
